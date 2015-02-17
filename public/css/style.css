@@ -22,7 +22,7 @@ body {
 .layer-0 {
   top: 50px;
   z-index: 5;
-  background: #dbf0ff url('http://i.imgur.com/4hwp8up.png') no-repeat top 40px center;
+  background: #dbf0ff;
   background-size: 120px 138.5px;
 }
 .layer-1 {
