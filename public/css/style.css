@@ -78,6 +78,11 @@ body {
   border-color: #DBF0FF;
 }
 
+.top-panel-content {
+  position: absolute;
+  left: 40%;
+}
+
 #navbar2 {
   background: #415A6C;
   border-color: #415A6C;
