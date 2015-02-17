@@ -57,11 +57,34 @@ body {
   top: 600px;
   background: #415a6c;
   width: 100%;
-  min-height: 1500px;
+  min-height: 3500px;
 }
 .content h1 {
   color: #fff;
   font-size: 2em;
   text-transform: uppercase;
   text-align: center;
+}
+
+#top-panel-wrapper {
+  position: absolute;
+  top: 0px;
+  z-index: 30;
+  width: 100%;
+}
+
+#top-panel-wrapper > .navbar-default {
+  background: #DBF0FF;
+  border-color: #DBF0FF;
+}
+
+#navbar2 {
+  background: #415A6C;
+  border-color: #415A6C;
+}
+
+.nav-logo {
+  width: 170px;
+  margin-top: 10px;
+  margin-left: 50px;
 }
