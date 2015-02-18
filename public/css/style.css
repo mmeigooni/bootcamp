@@ -93,3 +93,9 @@ body {
   margin-top: 10px;
   margin-left: 50px;
 }
+
+@media (max-width: 768px) {
+  .navbar, #navbar2 {
+    display: none;
+  }
+}
