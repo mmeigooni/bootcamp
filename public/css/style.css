@@ -85,9 +85,9 @@ body {
   background: rgba(0, 0, 0, .5)
 }
 
-#top-panel-wrapper > .navbar-default {
-  background: #DBF0FF;
-  border-color: #DBF0FF;
+#top-panel-wrapper .navbar-default {
+  background: #121443;
+  border-color: #121443;
 }
 
 .top-panel-content {
