@@ -16,7 +16,7 @@
   $(function () {
     $(window).scroll(function () {
       if ((screen.width>768)) {    // if screen size is 768px wide or larger
-        if ($(this).scrollTop() > 550) {   // set distance user needs to scroll before we fadeIn navbar
+        if ($(this).scrollTop() > 650) {   // set distance user needs to scroll before we fadeIn navbar
           $('#navbar2').fadeIn();
         } else {
           $('#navbar2').fadeOut();
